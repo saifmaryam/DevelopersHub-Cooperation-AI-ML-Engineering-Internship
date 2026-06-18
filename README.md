@@ -62,12 +62,4 @@ Used the Ames Housing dataset and went past the obvious features (square footage
 
 ---
 
-## Notes on Running These
-
-- Tasks 3 and 6 originally pulled data via the Kaggle API — if a `kaggle.json` token isn't available, both notebooks have a GitHub-mirror fallback documented in the early cells.
-- Task 5 needs a GPU runtime in Colab (Runtime → Change runtime type → T4 GPU) — training on CPU works but is significantly slower.
-- All notebooks are self-contained — running top to bottom should reproduce every result and chart shown.
-
----
-
 *MS Computer Science (Data Science), University of Gujrat — 2024–2026*
